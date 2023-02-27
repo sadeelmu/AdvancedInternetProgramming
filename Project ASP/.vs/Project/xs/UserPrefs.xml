@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{FA2964FE-8A73-4299-95F0-3444DFF233CA}|Default">
+  <MonoDevelop.Ide.ItemProperties.Project PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project/Views/Booking/Index.cshtml">
+    <Files>
+      <File FileName="Project/Models/Doctors.cs" Line="3" Column="1" />
+      <File FileName="Project/Views/Booking/Index.cshtml" Line="174" Column="1" />
+      <File FileName="Project/Models/Booking.cs" Line="23" Column="1" />
+      <File FileName="Project/Controllers/AboutController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Project" expanded="True">
+            <Node name="Project" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Booking" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

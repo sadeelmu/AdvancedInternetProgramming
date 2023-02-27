@@ -1,0 +1,143 @@
+﻿
+@{
+
+	ViewData["Title"] = "Blog Page";
+	Layout = "_BlogLayout";
+}
+@section HeaderImageSection{
+			<!-- Header-->
+		@*	<header class="masthead d-flex align-items-center">
+				<div class="container px-4 px-lg-5 text-center">
+					<h1 class="mb-1">Welcome To Our Blog!</h1>
+					<h3 class="mb-5"><em>Learn a lot more about Down-Syndrome</em></h3>
+				</div>
+			</header>*@
+
+			<header class="masthead blog">
+				<div class="container mb-4 text-center">
+					</div>
+			</header>
+}
+			<!-- Blog-->
+@section BlogsSection{
+			<section class="content-section" id="portfolio">
+				<div class="container px-4 px-lg-5">
+					<div class="content-section-heading text-center">
+						<h3 class="text-secondary mb-0">Our Blog</h3>
+						<h2 class="mb-5">Recent Articles</h2>
+					</div>
+					<div class="row gx-0">
+						<div class="col-lg-6">
+							<a class="portfolio-item" href="#!">
+								<div class="caption">
+									<div class="caption-content">
+										<div class="h2">Development of Down Syndrome</div>
+										<p class="mb-0">Research Over the Last Decadesâ€“What Healthcare and
+											Education Professionals Need to Know</p>
+									</div>
+								</div>
+								<img class="img-fluid" src="../img/Blog-1.jpg" alt="..." />
+							</a>
+						</div>
+						<div class="col-lg-6">
+							<a class="portfolio-item" href="#!">
+								<div class="caption">
+									<div class="caption-content">
+										<div class="h2">Current Status, Challenges, ..</div>
+										<p class="mb-0">Down Syndrome: Current Status, Challenges and Future Perspectives</p>
+									</div>
+								</div>
+								<img class="img-fluid" src="../img/Blog-2.jpg" alt="..." />
+							</a>
+						</div>
+						<div class="row gx-0">
+							<div class="col-lg-6">
+								<a class="portfolio-item" href="#!">
+									<div class="caption">
+										<div class="caption-content">
+											<div class="h2">insight of the disease</div>
+											<p class="mb-0">Down syndrome: an insight of the disease</p>
+										</div>
+									</div>
+									<img class="img-fluid" src="../img/Blog-3.jpg" alt="..." />
+								</a>
+							</div>
+							<div class="col-lg-6">
+								<a class="portfolio-item" href="#!">
+									<div class="caption">
+										<div class="caption-content">
+											<div class="h2">Second child with Down syndrome</div>
+											<p class="mb-0">What is the likelihood of having a second child with Down syndrome?</p>
+										</div>
+									</div>
+									<img class="img-fluid" src="../img/Blog-4.jpg" alt="..." />
+								</a>
+							</div>
+						</div>
+			</div>
+					<div class="row gx-0">
+                    <div class="col-lg-6">
+                    <a class="portfolio-item" href="https://www.lexieloolilyliamdylantoo.com/">
+                            <div class="caption">
+                                <div class="caption-content">
+                                <div class="h2">Our Five Ring Circus</div>
+                                <p class="mb-0">More just Down syndrome talk, this blog includes parenting tips and and lifestyle.</p>
+                                </div>
+                            </div>
+                        <img class="img-fluid" src="~/img/medium-shot-smiley-kids-indoors.jpg" alt="..." />
+                        </a>
+                    </div>
+                    <div class="col-lg-6">
+                    <a class="portfolio-item" href="http://www.jillianbenfield.com/">
+                            <div class="caption">
+                            <div class="caption-content">
+                                <div class="h2">News Anchor to Homemaker</div>
+                                <p class="mb-0">Raw emotion and eloquent words will cut you down deep, and bring you closer your own journey.</p>
+                                </div>
+                            </div>
+                        <img class="img-fluid" src="~/img/children-with-down-syndrome-scaled.jpeg" alt="..." />
+                        </a>
+                    </div>
+                    <div class="col-lg-6">
+                    <a class="portfolio-item" href="https://thatdadblog.com/">
+                      @*  <a class="portfolio-item"  asp-controller="Booking" asp-action="index">*@
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <div class="h2">That Dad Blog</div>
+                                <p class="mb-0">Written by a father of six we get a look into their lives with Down syndrome</p>
+                                </div>
+                            </div>
+                        <img class="img-fluid" src="~/img/down-syndrome-guide-treatment-722x406.jpg" alt="..." />
+                        </a>
+                    </div>
+                    <div class="col-lg-6">
+                    <a class="portfolio-item" href="https://iamriver.net/blog/">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <div class="h2">I Am River</div>
+                                <p class="mb-0">River's Mom' has an amazing way of sharing their unique story through words and pictures. </p>
+                                </div>
+                            </div>
+                        <img class="img-fluid" src="~/img/physical-therapy-child-with-down-syndrome_750x419.webp" alt="..." />
+                        </a>
+                    </div>
+                </div>
+				</div>	
+			</section>
+			}
+
+@section VideoSection{
+			<!-- Video-->
+			<section class="content-section bg-primary text-white text-center" id="services">
+				<div class="container px-4 px-lg-5">
+						<div class="content-section-heading">
+								<h3 class="text-secondary mb-0">Learn More</h3>
+								<h2 class="mb-5">Educational Video</h2>
+						</div>
+						<iframe 
+						src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1&mute=1">
+						</iframe> 
+						</video>						
+				</div>
+		</section>
+			}

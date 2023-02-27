@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Project.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\Blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\Blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\Blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\Blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\Blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\Blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\Blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\Blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\Down-syndrome-2-scaled.jpeg",
+      "PackagePath": "staticwebassets\\img\\Down-syndrome-2-scaled.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\LOGO.svg",
+      "PackagePath": "staticwebassets\\img\\LOGO.svg"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\children-with-down-syndrome-scaled.jpeg",
+      "PackagePath": "staticwebassets\\img\\children-with-down-syndrome-scaled.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\close-icon.svg",
+      "PackagePath": "staticwebassets\\img\\close-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\courses.webp",
+      "PackagePath": "staticwebassets\\img\\courses.webp"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\doctorone.jpeg",
+      "PackagePath": "staticwebassets\\img\\doctorone.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\doctors.jpg",
+      "PackagePath": "staticwebassets\\img\\doctors.jpg"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\doctorthree.jpeg",
+      "PackagePath": "staticwebassets\\img\\doctorthree.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\doctortwo.webp",
+      "PackagePath": "staticwebassets\\img\\doctortwo.webp"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\down-syndrome-guide-treatment-722x406.jpg",
+      "PackagePath": "staticwebassets\\img\\down-syndrome-guide-treatment-722x406.jpg"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\girl-with-down-syndrome-her-father-painted-hands-red-colour.jpg",
+      "PackagePath": "staticwebassets\\img\\girl-with-down-syndrome-her-father-painted-hands-red-colour.jpg"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\logos\\facebook.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\logos\\google.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\google.svg"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\logos\\ibm.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\ibm.svg"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\logos\\microsoft.svg",
+      "PackagePath": "staticwebassets\\img\\logos\\microsoft.svg"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\medium-shot-smiley-kids-indoors.jpg",
+      "PackagePath": "staticwebassets\\img\\medium-shot-smiley-kids-indoors.jpg"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\modern-office.webp",
+      "PackagePath": "staticwebassets\\img\\modern-office.webp"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\physical-therapy-child-with-down-syndrome_750x419.webp",
+      "PackagePath": "staticwebassets\\img\\physical-therapy-child-with-down-syndrome_750x419.webp"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\planning.jpg",
+      "PackagePath": "staticwebassets\\img\\planning.jpg"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\side-view-smiley-girl-with-down-syndrome.jpg",
+      "PackagePath": "staticwebassets\\img\\side-view-smiley-girl-with-down-syndrome.jpg"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\img\\team.webp",
+      "PackagePath": "staticwebassets\\img\\team.webp"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\razan\\Desktop\\Advanced Web\\Project ASP\\Project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Project.props",
+      "PackagePath": "build\\Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Project.props",
+      "PackagePath": "buildMultiTargeting\\Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Project.props",
+      "PackagePath": "buildTransitive\\Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,146 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_MainLayout";
+}
+
+@section HeaderImageSection{
+ <!-- Header-->
+        <header class="masthead d-flex align-items-center">
+            <div class="container px-4 px-lg-5 text-center">
+                <h1 class="mb-1">Helping Hands</h1>
+                <h3 class="mb-5"><em>An Online Therapy Platform for Children with Down Syndrome</em></h3>
+                <a class="btn btn-primary btn-xl" asp-controller="Booking" asp-action="index">Online Therapy</a>
+                 
+            </div>
+        </header>}
+@section DownSyndromeSection{
+    <!-- Image Showcases-->
+        <section class="content-section showcase">
+            <div class="container-fluid p-0">
+                <div class="row g-0">
+                <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('/img/side-view-smiley-girl-with-down-syndrome.jpg')"></div>
+                    <div class="col-lg-6 order-lg-1 my-auto showcase-text">
+                        <h2>What is Down Syndrome?</h2>
+                    <p class="lead mb-5">Down Syndrome is a genetic disorder associated with physical growth delays, characteristic facial features and mild to moderate developmental and intellectual disability. It is caused by the presence of full or partial extra copy of chromosome 21.</p>
+                         <a class="btn btn-primary btn-xl"  asp-controller="Booking" asp-action="index">Find Out More</a>
+                    </div>
+                </div>
+              
+            </div>
+        </section>
+ <!-- Services-->
+        <section class="content-section" id="services">
+            <div class="container">
+               <div class="content-section-heading text-center">
+                    <h3 class="text-secondary mb-0">Types</h3>
+                    <h2 class="mb-5">What are the types of Down Syndrome</h2>
+                </div>
+                <div class="row text-center">
+                    <div class="col-md-4">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fas fa-dna fa-stack-1x fa-inverse"></i>
+                        </span>
+                    <h4 class="my-3">Trisomy 21</h4>
+                    <p class="text-muted">About 95% of people with Down syndrome have Trisomy 21.2 With this type of Down syndrome, each cell in the body has 3 separate copies of chromosome 21 instead of the usual 2 copies.</p>
+                    </div>
+                    <div class="col-md-4">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fas fa-dna fa-stack-1x fa-inverse"></i>
+                        </span>
+                    <h4 class="my-3">Translocation Down syndrome</h4>
+                    <p class="text-muted">About 3% of Down syndrome individuals fall into this category. This happens when an extra chromosome 21 is present, it is connected to another chromosome instead of being seperated.</p>
+                    </div>
+                    <div class="col-md-4">
+                        <span class="fa-stack fa-4x">
+                        <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fas fa-dna fa-stack-1x fa-inverse"></i>
+                        </span>
+                    <h4 class="my-3">Mosaic Down syndrome</h4>
+                    <p class="text-muted">This type affects about 2% of the people with Down syndrome.Where some of the cells have 3 copies of chromosome 21, while other cells have the typical 2 chromosome 21 resulting in fewer features of the condition </p>
+                    </div>
+                </div>
+            </div>
+        </section>}
+@section AboutUsSection{
+<!-- Image Showcases-->
+        <section class="showcase">
+            <div class="container-fluid p-0">
+             
+                <div class="row g-0">
+                <div class="col-lg-6 text-white showcase-img" style="background-image: url('/img/girl-with-down-syndrome-her-father-painted-hands-red-colour.jpg')"></div>
+                    <div class="col-lg-6 my-auto showcase-text">
+                        <h2>How Can We Help?</h2>
+                    <p class="lead mb-5">Here at Helping Hands our therapists work with hand in hand with DS from infancy through adulthood to help them function as independently as possible during different phases of life. You can contact a physical therapist directly for an evaluation. </p>
+                     <a class="btn btn-primary btn-xl"  asp-controller="About" asp-action="index">Read More</a>
+                    </div>
+                </div>
+                
+            </div>
+        </section>}
+@section BlogsSection{
+ <!-- Portfolio-->
+        <section class="content-section" id="portfolio">
+            <div class="container px-4 px-lg-5">
+                <div class="content-section-heading text-center">
+                    <h3 class="text-secondary mb-0">Blog</h3>
+                    <h2 class="mb-5">Interesting Reads</h2>
+                </div>
+                <div class="row gx-0">
+                    <div class="col-lg-6">
+
+                    <a class="portfolio-item" href="https://www.lexieloolilyliamdylantoo.com/">
+                            <div class="caption">
+                                <div class="caption-content">
+                                <div class="h2">Our Five Ring Circus</div>
+                                <p class="mb-0">More just Down syndrome talk, this blog includes parenting tips and and lifestyle.</p>
+                                </div>
+                            </div>
+                        <img class="img-fluid" src="~/img/medium-shot-smiley-kids-indoors.jpg" alt="..." />
+                        </a>
+                    </div>
+                    <div class="col-lg-6">
+                    <a class="portfolio-item" href="http://www.jillianbenfield.com/">
+                            <div class="caption">
+                            <div class="caption-content">
+                                <div class="h2">News Anchor to Homemaker</div>
+                                <p class="mb-0">Raw emotion and eloquent words will cut you down deep, and bring you closer your own journey.</p>
+                                </div>
+                            </div>
+                        <img class="img-fluid" src="~/img/children-with-down-syndrome-scaled.jpeg" alt="..." />
+                        </a>
+                    </div>
+                     </div>
+                    <div class="row gx-0 mb-4">
+                    <div class="col-lg-6">
+                    <a class="portfolio-item" href="https://thatdadblog.com/">
+                      @*  <a class="portfolio-item"  asp-controller="Booking" asp-action="index">*@
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <div class="h2">That Dad Blog</div>
+                                <p class="mb-0">Written by a father of six we get a look into their lives with Down syndrome</p>
+                                </div>
+                            </div>
+                        <img class="img-fluid" src="~/img/down-syndrome-guide-treatment-722x406.jpg" alt="..." />
+                        </a>
+                    </div>
+                    <div class="col-lg-6">
+                    <a class="portfolio-item" href="https://iamriver.net/blog/">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <div class="h2">I Am River</div>
+                                <p class="mb-0">River's Mom' has an amazing way of sharing their unique story through words and pictures. </p>
+                                </div>
+                            </div>
+                        <img class="img-fluid" src="~/img/physical-therapy-child-with-down-syndrome_750x419.webp" alt="..." />
+                        </a>
+                    </div>
+                </div>
+                  <div class="text-center">
+                 <a class="btn btn-primary btn-xl"  asp-controller="Blog" asp-action="index">View All</a>
+            </div></div>
+            
+        </section>
+        
+    }

@@ -1,0 +1,210 @@
+﻿
+@{
+
+	ViewData["Title"] = "Booking Page";
+	Layout = "_BookingLayout";
+}
+@section HeaderImageSection{
+    <!-- Header-->
+        <header class="masthead booking">
+            <div class="container  mb-4 text-center">
+					</div>
+        </header>
+}
+
+@section ServicesSection{
+   <!-- Services-->
+<section class="content-section" id="services">
+    <div class="container">
+        <div class="content-section-heading text-center">
+            <h3 class="text-secondary mb-0">Types</h3>
+            <h2 class="mb-5">What are the types of Down Syndrome</h2>
+        </div>
+        <div class="row text-center">
+            <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+                <span class="fa-stack fa-4x">
+                    <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                      <i class="fas fa-person-cane fa-stack-1x fa-inverse"></i>
+
+                </span>
+                <h4 class="my-3">Pediatric Physical Therapy</h4>
+                <p class="text-muted">
+                    Pediatric physical therapy is a field of physical therapy that helps infants and young children with gross motor movement.
+                </p>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+                <span class="fa-stack fa-4x">
+                    <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                     <i class="fas fa-comment fa-stack-1x fa-inverse"></i>
+                </span>
+                <h4 class="my-3">Speech Therapy</h4>
+                <p class="text-muted">
+                    Good quality speech therapy greatly improves outcomes for people with communication needs.
+                </p>
+            </div>
+            <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+                <span class="fa-stack fa-4x">
+                    <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fas fa-hand-holding-medical fa-stack-1x fa-inverse"></i>
+                </span>
+                <h4 class="my-3">
+                    Sensory Integration Therapy
+                </h4>
+                <p class="text-muted">Sensory integration is the process by which your child adapts and responds to their environment and analyzes sensations sent to them by their senses.</p>
+            </div>
+
+            <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+                <span class="fa-stack fa-4x">
+                    <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fas fa-brain fa-stack-1x fa-inverse"></i>
+                </span>
+                <h4 class="my-3">Therapeutic Therapy</h4>
+                <p class="text-muted">
+                    Therapeutic listening is a treatment approached used by occupational and physical therapists to manage the symptoms of numerous disorders.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+    }
+
+@section FormSection{
+    <!-- Contact-->
+    <section class="content-section page-section text-center" id="contact">
+        <div class="container">
+            <div class="content-section-heading">
+                <h3 class="text-secondary mb-0">Bookings</h3>
+                <h2 class="mb-5 form-title">Book an appointment</h2>
+            </div>
+
+            <form id="contactForm" data-sb-form-api-token="API_TOKEN">
+                <div class="row align-items-stretch mb-5">
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <!-- Name input-->
+ @Html.TextBox("Name","",new{@class = "form-control mb-4", @title="Name", @placeholder="Your Name*"})
+                            <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
+                        </div>
+                        <div class="form-group mb-4 checkboxes">
+                            <div class="content-section-heading">
+                        <h3 class="text-secondary mb-0">Gender</h3>
+                        </div>
+
+                            <div>
+                               @Html.RadioButton("Gender","Male")  
+                                @Html.Label("Male")
+                          </div>
+
+                           <div>
+                        @Html.RadioButton("Gender","Female")
+                         @Html.Label("Female")
+                          </div>
+
+                           <div> </div>
+                           <div> </div>
+
+                        </div>
+
+                        <div class="form-group ">
+                            <!-- Email address input-->
+                             @Html.TextBox("Email","",new{@class = "form-control mb-4", @title="email", @placeholder="Email Address*" , @type="email"})
+                            <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
+                            <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
+                        </div>
+                        <div class="form-group mb-md-0">
+                            <!-- Phone number input-->
+                            @Html.TextBox("Phone Number","",new{@class = "form-control mb-4", @title="Phone Number", @placeholder="Phone Number*" , @type="tel"})
+                            <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.</div>
+                        </div>
+
+                         <div class="form-group mb-4 checkboxes">
+                            <div class="content-section-heading">
+                        <h3 class="text-secondary mb-0">Down Syndrome Type</h3>
+                        </div>
+
+                            <div>
+                               @Html.RadioButton("Type","Trisomy 21")  
+                                @Html.Label("Trisomy 21")
+                          </div>
+
+                           <div>
+                        @Html.RadioButton("Type","Translocation Down syndrome")
+                         @Html.Label("Translocation Down syndrome")
+                          </div>
+
+                          
+                           <div> 
+                                @Html.RadioButton("Type","Mosaic Down Syndrome")
+                         @Html.Label("Mosaic Down Syndrome")
+                           </div>
+
+                           
+                           <div> 
+                           
+                           </div>
+
+                        </div>
+
+                        <div class="form-group mb-4 checkboxes">
+                            <div class="content-section-heading">
+            <h3 class="text-secondary mb-0">Therapy Types</h3>
+
+        </div>
+                            <div>
+                          @Html.CheckBox("Therapy", false)
+                          @Html.Label("Sensory Integration Therapy")
+                          </div>
+
+                           <div>
+                          @Html.CheckBox("Therapy", false)
+                          @Html.Label("Pediatric Physical Therapy")
+                          </div>
+
+                           <div>
+                          @Html.CheckBox("Therapy", false)
+                          @Html.Label("Speech Therapy")
+                          </div>
+
+                           <div>
+                          @Html.CheckBox("Therapy", false)
+                          @Html.Label("Therapeutic Therapy")
+                          </div>
+
+                        </div>
+
+                        <div class="form-group mb-md-0">
+                        </div>
+                            @Html.DropDownList("Doctors",Html.GetEnumSelectList<Doctors>(),"Select Doctor" ,new{@class="form-control mb-4 ddl", @title = "Doctors"})
+                            <div class="form-group form-group-textarea mb-md-0">
+                            <!-- Message input-->
+                            @Html.TextArea("Message","",new{@class = "form-control mb-4", @title="Message", @placeholder="Brief description of reasons for seeking help and expectations for therapy:"})
+                            <div class="invalid-feedback" data-sb-feedback="message:required">A message is required.</div>
+                        </div>
+                    </div>
+                </div>
+            </form>  
+
+            <div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3">Error sending message!</div></div>
+            <!-- Submit Button-->
+            <div class="text-center">  <a class="btn btn-primary btn-xl" asp-controller="Booking" asp-action="index">Confirm and Book</a></div>
+         </div>
+         </section>
+
+    }
+@section MapSection{
+    <!-- Map-->
+    <section class="content-section text-center">
+        <div class="container">
+        <div class="content-section-heading">
+                <h3 class="text-secondary mb-0">Location</h3>
+                <h2 class="mb-5">Find Us At</h2>
+            </div>
+    <div class="map" id="contact">
+        <iframe src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
+        <br />
+        <small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"></a></small>
+    </div>
+    </div>
+    </section>
+}
+
